@@ -1,0 +1,145 @@
+body {
+
+    background-color: beige;
+
+
+}
+
+
+
+
+h1 {
+
+    font-size: 91px;
+    color: deeppink;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration:underline;
+
+}
+
+
+h2 {
+
+    font-size: 50px;
+    font-style:initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(2, 9, 206);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+}
+
+
+h3 {    
+
+    font-size: 35px;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+    
+    
+}
+
+
+h4 { 
+
+    font-size: 25px;
+    font-style:initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(183, 63, 159);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+    
+
+
+}
+
+
+h5 {font-size: 35px;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+    }
+
+
+h6 {font-size: 25px;
+    font-style:initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(183, 63, 159);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;}
+
+
+
+
+
+    body {
+
+        font-size: 40px;
+        text-align:justify;
+        
+        
+        
+        }
+        
+        
+        
+        
+        
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            width: 1024px
+        }
+        
+        
+        
+        
+        header {
+        
+            background-color:rgb(255, 169, 137);
+            height: 120px;
+            width: 1070px;
+            
+        }
+        
+        nav {
+        
+            background-color: cornflowerblue;
+            height: 95px;
+            width: 1070px;
+            img {
+                display: block;
+                margin: auto;
+              }
+        
+        
+        }
+        
+        
+        
+        main {
+        
+            background-color:lightblue;
+            height: 80px; 
+            width: 1070px;
+        
+        
+        }
+        
+        footer {
+        
+            background-color: rgb(202, 236, 178);
+            height: 1150px;
+            width:1070px;
+        
+        }
+        
+        
+        
